@@ -1,0 +1,4 @@
+razgon-2d-studio/node_modules/
+razgon-2d-studio/projects/*/renders/
+__pycache__/
+.hoplite/

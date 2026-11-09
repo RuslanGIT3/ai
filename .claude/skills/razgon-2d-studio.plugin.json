@@ -1,0 +1,7 @@
+{
+  "name": "razgon-2d-studio",
+  "version": "0.3.0",
+  "description": "Voiceover → cinematic stick-figure video with motivated camera paths, weight and impacts, motion blur, designed transitions (whip, push, iris, match, smash), kinetic typography and SFX synced to visual events. Code-rendered 2D + 3D, Whisper timestamps, five styles, 16:9 or 9:16 up to 4K.",
+  "author": { "name": "Razgon" },
+  "keywords": ["video", "animation", "faceless youtube", "stick figure", "explainer", "whisper", "three.js", "motion graphics", "motion design"]
+}
